@@ -1,0 +1,2 @@
+# wordlists
+Bugbound custom wordlists
