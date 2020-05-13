@@ -1,2 +1,3 @@
 #ERB
 <%= Time.now.strftime('%A') %>
+<%= File.delete('/home/carlos/morale.txt') %>
