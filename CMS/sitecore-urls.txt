@@ -1,0 +1,1 @@
+/sitecore/api/ssc/auth/login
