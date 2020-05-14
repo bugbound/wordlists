@@ -1,1 +1,2 @@
 /sitecore/api/ssc/auth/login
+/sitecore/api/ssc/auth/logout
