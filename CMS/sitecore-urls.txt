@@ -49,3 +49,6 @@
 /sitecore/service/Analytics/Session/RedirectSession.ashx
 /sitecore%20modules/Web/Web%20Forms%20for%20Marketers/Tracking.aspx
 /sitecore%20modules/Web/Web%20Forms%20for%20Marketers/export.aspx
+/sitecore%20modules/Shell/Web%20Forms%20for%20Marketers/Shell/OpenXamlModalDialog/OpenXamlModalDialog.aspx
+/sitecore/shell/sitecore.version.xml
+
