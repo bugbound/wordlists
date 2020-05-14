@@ -1,3 +1,17 @@
 /sitecore/api/ssc/auth/login
 /sitecore/api/ssc/auth/logout
 /sitecore/api/ssc/item/110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9
+/sitecore%20modules/web/exm/dedicateddispatchservice.asmx
+/sitecore/system/Settings/Email/Tasks
+/sitecore%20modules/web/exm/ecmclientservice.asmx
+/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.unobtrusive.min.js
+/sitecore%20modules/Web/EXM/RedirectUrlPage.aspx
+/sitecore%20modules/shell/telligent/h/oauth.ashx
+/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/Staging/WfmService.asmx
+/sitecore%20modules/PowerShell
+/sitecore%20modules/gigya/migration.aspx
+/sitecore%20modules/Shell/Sitecore/ItemBuckets/styles/jquery-ui.css
+/sitecore%20modules/Web/xConnectHelper/xConnectHelper.aspx
+/sitemap.xml
+
+
